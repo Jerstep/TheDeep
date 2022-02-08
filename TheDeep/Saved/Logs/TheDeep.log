@@ -1530,3 +1530,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-15.12.43:151][624]LogSlate: Window 'Plugins' being destroyed
 [2022.02.08-15.12.43:155][624]LogSlate: Window 'Plugins' being destroyed
 [2022.02.08-15.12.43:155][624]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.02.08-15.29.19:088][148]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
