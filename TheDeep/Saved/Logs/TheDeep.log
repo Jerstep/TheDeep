@@ -1531,3 +1531,171 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-15.12.43:155][624]LogSlate: Window 'Plugins' being destroyed
 [2022.02.08-15.12.43:155][624]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2022.02.08-15.29.19:088][148]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.08-15.47.04:284][899]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:10015).
+[2022.02.08-15.47.04:335][900]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:10017).
+[2022.02.08-15.47.04:385][901]LogRenderer: Reallocating scene render targets to support 1616x884 Format 10 NumSamples 1 (Frame:10019).
+[2022.02.08-15.47.04:433][902]LogRenderer: Reallocating scene render targets to support 1616x920 Format 10 NumSamples 1 (Frame:10021).
+[2022.02.08-15.47.04:482][903]LogRenderer: Reallocating scene render targets to support 1616x944 Format 10 NumSamples 1 (Frame:10023).
+[2022.02.08-15.47.04:530][904]LogRenderer: Reallocating scene render targets to support 1616x964 Format 10 NumSamples 1 (Frame:10025).
+[2022.02.08-15.47.04:575][905]LogRenderer: Reallocating scene render targets to support 1616x972 Format 10 NumSamples 1 (Frame:10027).
+[2022.02.08-15.47.04:623][906]LogRenderer: Reallocating scene render targets to support 1616x976 Format 10 NumSamples 1 (Frame:10029).
+[2022.02.08-15.47.04:673][907]LogRenderer: Reallocating scene render targets to support 1616x980 Format 10 NumSamples 1 (Frame:10031).
+[2022.02.08-15.47.06:650][113]LogRenderer: Reallocating scene render targets to support 1624x980 Format 10 NumSamples 1 (Frame:10213).
+[2022.02.08-15.47.06:696][114]LogRenderer: Reallocating scene render targets to support 1652x980 Format 10 NumSamples 1 (Frame:10215).
+[2022.02.08-15.47.06:746][115]LogRenderer: Reallocating scene render targets to support 1728x980 Format 10 NumSamples 1 (Frame:10217).
+[2022.02.08-15.47.06:797][116]LogRenderer: Reallocating scene render targets to support 1796x980 Format 10 NumSamples 1 (Frame:10219).
+[2022.02.08-15.47.06:848][117]LogRenderer: Reallocating scene render targets to support 1824x980 Format 10 NumSamples 1 (Frame:10221).
+[2022.02.08-15.47.06:894][118]LogRenderer: Reallocating scene render targets to support 1832x980 Format 10 NumSamples 1 (Frame:10223).
+[2022.02.08-15.47.10:277][487]LogRenderer: Reallocating scene render targets to support 1868x980 Format 10 NumSamples 1 (Frame:10504).
+[2022.02.08-15.47.10:333][488]LogRenderer: Reallocating scene render targets to support 1924x980 Format 10 NumSamples 1 (Frame:10506).
+[2022.02.08-15.47.10:384][488]LogRenderer: Reallocating scene render targets to support 1940x980 Format 10 NumSamples 1 (Frame:10508).
+[2022.02.08-15.47.11:844][621]LogRenderer: Reallocating scene render targets to support 2220x980 Format 10 NumSamples 1 (Frame:10617).
+[2022.02.08-15.51.25:268][ 70]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.08-15.51.39:278][686]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.08-15.51.39:281][686]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.08-15.51.58:281][811]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.02.08-15.51.58:285][811]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.02.08-15.55.28:435][735]LogHMD: SteamVR Shutting down.
+[2022.02.08-15.55.44:994][784]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0c65ce59-4906-40c3-bb1f-204db0ba1e79}.
+[2022.02.08-15.55.44:994][784]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-15.55.45:003][784]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-15.55.45:003][784]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-15.57.15:310][ 54]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-15.57.15:310][ 54]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-15.57.15:544][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-15.57.15:544][ 54]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.30.16:200][862]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.30.16:256][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.30.16:371][862]PIE: New page: PIE session: FirstPersonExampleMap (8 feb. 2022 18:30:16)
+[2022.02.08-16.30.16:372][862]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.08-16.30.16:374][862]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.08-16.30.16:393][862]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-16.30.16:451][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057735s)
+[2022.02.08-16.30.16:452][862]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.08-16.30.16:469][862]LogPlayLevel: PIE: World Init took: (0.017787s)
+[2022.02.08-16.30.16:469][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.075900s)
+[2022.02.08-16.30.16:473][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.08-16.30.16:498][862]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.30.16:498][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.30.16:498][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.08-16.30.16:498][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.08-16.30.16:498][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.08-16.30.16:498][862]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.30.16:502][862]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.30.16:502][862]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.30.16:537][862]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (WH-1000XM4 Stereo)
+[2022.02.08-16.30.16:537][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.30.16:537][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.30.16:537][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.30.16:537][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.30.16:537][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.30.16:538][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.30.16:539][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.30.16:539][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.30.16:539][862]LogInit: FAudioDevice initialized.
+[2022.02.08-16.30.16:539][862]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.02.08-16.30.16:570][862]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.08-16.30.16:707][862]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.02.08-17.30.16
+[2022.02.08-16.30.16:745][862]LogWorld: Bringing up level for play took: 0.039373
+[2022.02.08-16.30.16:745][862]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.02.08-16.30.16:995][862]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.02.08-16.30.17:087][862]PIE: Server logged in
+[2022.02.08-16.30.17:105][862]PIE: Play in editor total start time 0,897 seconds.
+[2022.02.08-16.30.38:663][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=752.558 Y=-1204.419 Z=178.410] for [FirstPersonProjectile_C]
+[2022.02.08-16.30.44:160][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.30.44:160][ 36]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-16.30.44:203][ 36]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.30.44:203][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.30.44:228][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.30.44:230][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.30.44:285][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.30.44:286][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.30.44:287][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.30.44:289][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.30.44:290][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.08-16.30.44:329][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.08-16.31.27:674][678]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.02.08-16.31.28:223][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.08-16.31.30:004][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.08-16.31.31:356][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.08-16.31.32:190][  2]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.08-16.31.32:486][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.08-17.05.36:298][546]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2611b0f9-0f2c-468b-a614-98c4e25bb096}.
+[2022.02.08-17.05.36:298][546]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-17.05.36:328][546]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-17.05.36:328][546]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-17.05.36:328][546]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-17.05.36:328][546]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-18.46.07:581][484]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-18.46.07:581][484]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-18.46.07:600][484]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-18.46.07:600][484]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-19.05.17:493][902]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2611b0f9-0f2c-468b-a614-98c4e25bb096}.
+[2022.02.08-19.05.17:493][902]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-19.05.17:500][902]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-19.05.17:501][902]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-19.05.17:501][902]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-19.05.17:501][902]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-19.34.25:254][101]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-19.34.25:254][101]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-19.34.25:280][101]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-19.34.25:280][101]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-19.55.48:157][914]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2611b0f9-0f2c-468b-a614-98c4e25bb096}.
+[2022.02.08-19.55.48:157][914]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-19.55.48:188][914]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-19.55.48:188][914]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-19.55.48:188][914]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-19.55.48:188][914]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-19.56.34:569][ 52]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7aa1a96e-9ba7-43b7-97dc-7f5d97a8d5d8}.
+[2022.02.08-19.56.34:569][ 52]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-19.56.34:595][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-19.56.34:595][ 52]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-19.56.34:595][ 52]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-19.56.34:595][ 52]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-19.56.48:690][ 94]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-19.56.48:690][ 94]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-19.56.48:707][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-19.56.48:707][ 94]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-20.22.04:422][599]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2611b0f9-0f2c-468b-a614-98c4e25bb096}.
+[2022.02.08-20.22.04:422][599]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-20.22.04:441][599]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-20.22.04:441][599]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-20.22.04:441][599]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-20.22.04:441][599]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-20.22.58:221][759]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7aa1a96e-9ba7-43b7-97dc-7f5d97a8d5d8}.
+[2022.02.08-20.22.58:221][759]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-20.22.58:245][759]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-20.22.58:245][759]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-20.22.58:245][759]LogAudioMixer: Display: 2: BackLeft
+[2022.02.08-20.22.58:245][759]LogAudioMixer: Display: 3: BackRight
+[2022.02.08-20.23.11:678][799]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-20.23.11:678][799]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-20.23.11:700][799]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-20.23.11:700][799]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-20.55.27:268][554]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{28e1ed31-78be-458c-926f-61ac94e22a2b}.
+[2022.02.08-20.55.27:589][554]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-20.55.27:595][554]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-20.55.27:595][554]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-21.27.20:210][247]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5333d2d1-187f-4db8-b63d-bf70d85313ca}.
+[2022.02.08-21.27.20:210][247]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-21.27.20:216][247]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-21.27.20:217][247]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-21.32.40:713][200]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e1211d10-cf11-4a7a-b40a-1cd15737914f}.
+[2022.02.08-21.32.40:713][200]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-21.32.40:719][200]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-21.32.40:719][200]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-21.33.03:281][267]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7aa1a96e-9ba7-43b7-97dc-7f5d97a8d5d8}.
+[2022.02.08-21.33.03:281][267]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-21.33.03:301][267]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-21.33.03:301][267]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-21.33.16:072][305]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{def3216e-746c-4f4e-b70a-622a0f34d627}.
+[2022.02.08-21.33.16:072][305]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.08-21.33.16:077][305]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-21.33.16:077][305]LogAudioMixer: Display: 1: FrontRight
